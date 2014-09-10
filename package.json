@@ -1,0 +1,16 @@
+{
+  "name": "sphero-ardrone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cylon": "^0.18.0",
+    "cylon-ardrone": "^0.13.0",
+    "cylon-sphero": "^0.14.1"
+  }
+}
